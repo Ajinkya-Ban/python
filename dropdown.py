@@ -1,3 +1,5 @@
+#following script can be used to verify drop down elements are sorted or not using python selenium
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
